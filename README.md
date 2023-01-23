@@ -1,7 +1,7 @@
 <h1 align="center">Eye of God</h1>
 
 <div align="center">
-<img src="Readme_Assets\Eye_of_god.png"> 
+<img src="Readme_Assets/Eye_of_god.png"> 
 </div>
 
 <br>
@@ -51,13 +51,13 @@ This innovative use of technology can help visually impaired people feel more em
 
 * Outdoor Navigation
 <div align="center">
-<img src="Readme_Assets\Outdoor.png"> 
+<img src="Readme_Assets/Outdoor.png"> 
 </div>
 <br>
 
 * Indoor Navigation
 <div align="center">
-<img src="Readme_Assets\Indoor.png"> 
+<img src="Readme_Assets/Indoor.png"> 
 </div>
 <br>
 
@@ -102,7 +102,7 @@ Run the app using `flutter run` in the main directory of the project `eye_of_god
 
 <h2><strong>Circuit Diagram</h2></strong>
 <div align="center">
-<img src="Readme_Assets\Esp_Circuit_Diagram.png"> 
+<img src="Readme_Assets/Esp_Circuit_Diagram.png"> 
 </div>
 <br>
 
@@ -132,12 +132,12 @@ Run the app using `flutter run` in the main directory of the project `eye_of_god
 
 * Outdoor Mode
 <div align="center">
-<img src="Readme_Assets\Outdoor_Screen.jpeg"> 
+<img src="Readme_Assets/Outdoor_Screen.jpeg"> 
 </div>
 
 * Indoor Mode
 <div align="center">
-<img src="Readme_Assets\Indoor_Screen.jpeg"> 
+<img src="Readme_Assets/Indoor_Screen.jpeg"> 
 </div>
 
 ---
